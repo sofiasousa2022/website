@@ -6,6 +6,6 @@ This is the readme file for this Project
 
 Adding changes for example
 
-##Even More changes
+##Updates from Master
 
-Changes as part of automatic merge example
+This is going to be painful, but we will deal with it
