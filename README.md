@@ -33,4 +33,8 @@ New website [google site][google]
 |Row 2, Col 1    | Row 2, Col 2   |
 
 ##### More alterations
+<<<<<<< HEAD
 teste teste 44444
+=======
+teste teste 
+>>>>>>> bigtrouble
