@@ -30,11 +30,5 @@ New website [google site][google]
 | Header One     | Header Two     |
 | :------------: | :------------ :|
 | Item One       | Item Two       |
-|Row 2, Col 1    | Row 2, Col 2   |
 
-##### More alterations
-<<<<<<< HEAD
-teste teste 44444
-=======
-teste teste 
->>>>>>> bigtrouble
+cccccccc
